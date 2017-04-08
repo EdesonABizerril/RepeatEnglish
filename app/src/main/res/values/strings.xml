@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">"Repeat English"</string>
+    <string name="botao_mais_um">+1 vez</string>
+    <string name="vetor_zero">"LEITURA"</string>
+    <string name="vetor_um">"LEITURA + ESCUTA"</string>
+    <string name="vetor_dois">"ESCUTA</string>
+    <string name="vetor_tres">"LEITURA + ESCUTA"</string>
+    <string name="vetor_quatro">"Fim da revisão"</string>
+
+</resources>
